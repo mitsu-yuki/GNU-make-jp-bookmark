@@ -1,0 +1,580 @@
+BookmarkBegin
+BookmarkTitle: 表紙
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: 監訳者まえがき
+BookmarkLevel: 2
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: まえがき
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 第3版にむけて
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: 目次
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: 1章 簡単なメイクファイルを書いてみよう
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: 1.1 ターゲットと必須項目
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: 1.2 依存関係の検証
+BookmarkLevel: 2
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: 1.3 再構築作業を最小にする
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 1.4 makeの実行
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.5 makefileの基本文法
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 2章 ルール
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 2.1 明示的ルール
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 2.1.1 ワイルドカード
+BookmarkLevel: 3
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 2.1.2 疑似ターゲット
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: 2.1.3 空のターゲット
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 2.2 変数
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 2.2.1 自動変数
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 2.3 VPATHとvpathによるファイルの検索
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 2.4 パターンルール
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: 2.4.1 パターン
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 2.4.2 静的パターンルール
+BookmarkLevel: 3
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 2.4.3 サフィックスルール
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 2.5 暗黙ルールのデータベース
+BookmarkLevel: 2
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: 2.5.1 暗黙ルールを活用する
+BookmarkLevel: 3
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 2.5.2 ルールの構造
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 2.6 特殊ターゲット
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 2.7 自動的な依存関係の生成
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 2.8 ライブラリ管理
+BookmarkLevel: 2
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: 2.8.1 ライブラリの作成と更新
+BookmarkLevel: 3
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 2.8.2 ライブラリを必須項目として使う
+BookmarkLevel: 3
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: 2.8.3 二重コロンルール
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: 3章 変数とマクロ
+BookmarkLevel: 1
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 3.1 変数を何に使うべきか
+BookmarkLevel: 2
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: 3.2 変数の種類
+BookmarkLevel: 2
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: 3.2.1 その他の代入
+BookmarkLevel: 3
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: 3.3 マクロ
+BookmarkLevel: 2
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: 3.4 変数はいつ展開されるか
+BookmarkLevel: 2
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: 3.5 ターゲットとパターンに固有の変数
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 3.6 変数はどこからくるのか
+BookmarkLevel: 2
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: 3.7 条件判断とinclude命令
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: 3.7.1 include命令
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 3.7.2 includeと依存関係
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: 3.8 標準的なmake変数
+BookmarkLevel: 2
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: 4章 関数
+BookmarkLevel: 1
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: 4.1 ユーザ定義関数
+BookmarkLevel: 2
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: 4.2 組み込み関数
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: 4.2.1 文字列関数
+BookmarkLevel: 3
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: 4.2.2 その他の重要な関数
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: 4.2.3 ファイル名関数
+BookmarkLevel: 3
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: 4.2.4 実行制御
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 4.2.5 比較的重要なその他の関数
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 4.3 高度なユーザ定義関数
+BookmarkLevel: 2
+BookmarkPageNumber: 99
+BookmarkBegin
+BookmarkTitle: 4.3.1 eval関数と値
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: 4.3.2 フック関数
+BookmarkLevel: 3
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: 4.3.3 関数に値を渡す
+BookmarkLevel: 3
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: 5章 コマンド
+BookmarkLevel: 1
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: 5.1 コマンドの構文解析
+BookmarkLevel: 2
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: 5.1.1 長いコマンド
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 5.1.2 コマンド修飾子
+BookmarkLevel: 3
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: 5.1.3 エラーと中断
+BookmarkLevel: 3
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 5.2 空のコマンド
+BookmarkLevel: 2
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: 5.3 コマンド環境
+BookmarkLevel: 2
+BookmarkPageNumber: 118
+BookmarkBegin
+BookmarkTitle: 5.4 コマンドを評価する
+BookmarkLevel: 2
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 5.5 コマンドラインの制限
+BookmarkLevel: 2
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: 6章 大きなプロジェクトの管理
+BookmarkLevel: 1
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 6.1 再帰的make
+BookmarkLevel: 2
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: 6.1.1 コマンドラインオプション
+BookmarkLevel: 3
+BookmarkPageNumber: 130
+BookmarkBegin
+BookmarkTitle: 6.1.2 値を渡す
+BookmarkLevel: 3
+BookmarkPageNumber: 131
+BookmarkBegin
+BookmarkTitle: 6.1.3 エラー処理
+BookmarkLevel: 3
+BookmarkPageNumber: 131
+BookmarkBegin
+BookmarkTitle: 6.1.4 その他のターゲットの構築
+BookmarkLevel: 3
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: 6.1.5 makefileの相互依存
+BookmarkLevel: 3
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 6.1.6 コードの重複を回避する
+BookmarkLevel: 3
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 6.2 非再帰的make
+BookmarkLevel: 2
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 6.3 巨大システムのコンポーネント
+BookmarkLevel: 2
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: 6.4 ファイルシステムの配置
+BookmarkLevel: 2
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 6.5 構築とテストの自動化
+BookmarkLevel: 2
+BookmarkPageNumber: 147
+BookmarkBegin
+BookmarkTitle: 7章 ポータブルなmakefile
+BookmarkLevel: 1
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: 7.1 移植における問題点
+BookmarkLevel: 2
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 7.2 Cygwin
+BookmarkLevel: 2
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: 7.2.1 行末文字
+BookmarkLevel: 3
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: 7.2.2 ファイルシステム
+BookmarkLevel: 3
+BookmarkPageNumber: 151
+BookmarkBegin
+BookmarkTitle: 7.2.3 プログラムの衝突
+BookmarkLevel: 3
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 7.3 プログラムとファイルを管理する
+BookmarkLevel: 2
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 7.4 ポータビリティのないツールで作業する
+BookmarkLevel: 2
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: 7.4.1 標準シェル
+BookmarkLevel: 3
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 7.5 automake
+BookmarkLevel: 2
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 8章 CとC++
+BookmarkLevel: 1
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: 8.1 ソースとバイナリの分離
+BookmarkLevel: 2
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: 8.1.1 簡単な方法
+BookmarkLevel: 3
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: 8.1.2 難しい方法
+BookmarkLevel: 3
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: 8.2 読み出し専用のソース
+BookmarkLevel: 2
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: 8.3 依存関係の生成
+BookmarkLevel: 2
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: 8.3.1 Tromeyの手法
+BookmarkLevel: 3
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: 8.3.2 makedependプログラム
+BookmarkLevel: 3
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: 8.4 複数のバイナリツリーを利用する
+BookmarkLevel: 2
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: 8.5 部分的なソースツリー
+BookmarkLevel: 2
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: 8.6 リファレンスビルド、ライブラリ、インストーラ
+BookmarkLevel: 2
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: 9章 Java
+BookmarkLevel: 1
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: 9.1 makeの代替
+BookmarkLevel: 2
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 9.1.1 Ant
+BookmarkLevel: 3
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 9.1.2 IDE
+BookmarkLevel: 3
+BookmarkPageNumber: 183
+BookmarkBegin
+BookmarkTitle: 9.2 Java向け汎用makefile
+BookmarkLevel: 2
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: 9.3 Javaのコンパイル
+BookmarkLevel: 2
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: 9.3.1 高速な手法:一体型コンパイル
+BookmarkLevel: 3
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: 9.3.2 依存関係からコンパイルする
+BookmarkLevel: 3
+BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: 9.3.3 CLASSPATHの設定
+BookmarkLevel: 3
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: 9.4 jarの管理
+BookmarkLevel: 2
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: 9.5 リファレンスツリーとサードパーティ製jarファイル
+BookmarkLevel: 2
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 10章 makeの性能改善
+BookmarkLevel: 1
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 10.1 ベンチマーク
+BookmarkLevel: 2
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 10.2 ボトルネックの特定と対応
+BookmarkLevel: 2
+BookmarkPageNumber: 203
+BookmarkBegin
+BookmarkTitle: 10.2.1 単純変数対再帰変数
+BookmarkLevel: 3
+BookmarkPageNumber: 203
+BookmarkBegin
+BookmarkTitle: 10.2.2 @を無効にする
+BookmarkLevel: 3
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 10.2.3 初期化の遅延
+BookmarkLevel: 3
+BookmarkPageNumber: 205
+BookmarkBegin
+BookmarkTitle: 10.3 並列make
+BookmarkLevel: 2
+BookmarkPageNumber: 207
+BookmarkBegin
+BookmarkTitle: 10.4 分散make
+BookmarkLevel: 2
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 11章 makefileの実例
+BookmarkLevel: 1
+BookmarkPageNumber: 213
+BookmarkBegin
+BookmarkTitle: 11.1 Book makefile
+BookmarkLevel: 2
+BookmarkPageNumber: 213
+BookmarkBegin
+BookmarkTitle: 11.1.1 例題の管理
+BookmarkLevel: 3
+BookmarkPageNumber: 222
+BookmarkBegin
+BookmarkTitle: 11.1.2 XMLの処理
+BookmarkLevel: 3
+BookmarkPageNumber: 227
+BookmarkBegin
+BookmarkTitle: 11.1.3 出力の生成
+BookmarkLevel: 3
+BookmarkPageNumber: 231
+BookmarkBegin
+BookmarkTitle: 11.1.4 ソーステキストの検証
+BookmarkLevel: 3
+BookmarkPageNumber: 233
+BookmarkBegin
+BookmarkTitle: 11.2 Linuxカーネルのmakefile
+BookmarkLevel: 2
+BookmarkPageNumber: 235
+BookmarkBegin
+BookmarkTitle: 11.2.1 コマンドラインオプション
+BookmarkLevel: 3
+BookmarkPageNumber: 236
+BookmarkBegin
+BookmarkTitle: 11.2.2 設定と構築
+BookmarkLevel: 3
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: 11.2.3 コマンド表示の管理
+BookmarkLevel: 3
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: 11.2.4 ユーザ定義関数
+BookmarkLevel: 3
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: 12章 makefileのデバッグ
+BookmarkLevel: 1
+BookmarkPageNumber: 248
+BookmarkBegin
+BookmarkTitle: 12.1 makeのデバッグ機能
+BookmarkLevel: 2
+BookmarkPageNumber: 248
+BookmarkBegin
+BookmarkTitle: 12.1.1 コマンドラインオプション
+BookmarkLevel: 3
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: 12.1.2 --debugオプション
+BookmarkLevel: 3
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: 12.2 デバッグ用のコードを書く
+BookmarkLevel: 2
+BookmarkPageNumber: 255
+BookmarkBegin
+BookmarkTitle: 12.2.1 優れたコーディングの習慣
+BookmarkLevel: 3
+BookmarkPageNumber: 255
+BookmarkBegin
+BookmarkTitle: 12.2.2 防衛的コード
+BookmarkLevel: 3
+BookmarkPageNumber: 257
+BookmarkBegin
+BookmarkTitle: 12.2.3 デバッグテクニック
+BookmarkLevel: 3
+BookmarkPageNumber: 258
+BookmarkBegin
+BookmarkTitle: 12.3 よくあるエラーメッセージ
+BookmarkLevel: 2
+BookmarkPageNumber: 260
+BookmarkBegin
+BookmarkTitle: 12.3.1 文法エラー
+BookmarkLevel: 3
+BookmarkPageNumber: 261
+BookmarkBegin
+BookmarkTitle: 12.3.2 コマンドスクリプト中のエラー
+BookmarkLevel: 3
+BookmarkPageNumber: 262
+BookmarkBegin
+BookmarkTitle: 12.3.3 No Rule to Make Target (ターゲットを構築するためのルールがない)
+BookmarkLevel: 3
+BookmarkPageNumber: 263
+BookmarkBegin
+BookmarkTitle: 12.3.4 Overriding Commands for Target (コマンドが上書きされている)
+BookmarkLevel: 3
+BookmarkPageNumber: 263
+BookmarkBegin
+BookmarkTitle: 付録A makeの実行
+BookmarkLevel: 1
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: 付録B 限界を超えて
+BookmarkLevel: 1
+BookmarkPageNumber: 268
+BookmarkBegin
+BookmarkTitle: 付録C GNU Free Documentation License ―― GNU Project ―― Free Software Foundation
+BookmarkLevel: 1
+BookmarkPageNumber: 280
+BookmarkBegin
+BookmarkTitle: 索引
+BookmarkLevel: 1
+BookmarkPageNumber: 286
